@@ -1,0 +1,18 @@
+{
+  "name": "indian-finance-calc",
+  "version": "1.0.0",
+  "description": "Indian personal-finance formulas in plain JavaScript: EMI, reduce EMI vs tenure (prepayment and RBI rate reset), SIP, step-up SIP, EPF interest, DA arrear, ₹ lakh/crore formatting. Zero dependencies.",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": { "types": "./index.d.ts", "default": "./index.js" } },
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test test/index.test.js" },
+  "keywords": ["india", "emi", "emi-calculator", "home-loan", "sip", "sip-calculator", "epf", "provident-fund", "dearness-allowance", "lakh", "crore", "inr", "personal-finance", "loan-calculator"],
+  "homepage": "https://paisatools.co.in",
+  "repository": { "type": "git", "url": "git+https://github.com/nils44344/indian-finance-calc.git" },
+  "bugs": { "url": "https://github.com/nils44344/indian-finance-calc/issues" },
+  "author": "PaisaTools (https://paisatools.co.in)",
+  "license": "MIT",
+  "engines": { "node": ">=16" }
+}
