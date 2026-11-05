@@ -49,3 +49,6 @@ toLakhCrore(15000000); // "1.5 crore"
 Prefer a spreadsheet? The same formulas are in free Excel templates: [india-finance-excel-templates](https://github.com/nils44344/india-finance-excel-templates).
 
 For planning, not financial advice. MIT licence © PaisaTools (paisatools.co.in).
+
+## Also by PaisaTools
+Book: *Paisa Aur Mann: Money Psychology for Salaried India*. Every chapter is free to read at [paisatools.co.in/library](https://paisatools.co.in/library) (English and Hindi); the full edition is on [Amazon Kindle](https://www.amazon.in/dp/B0HQGMZ5XZ).
