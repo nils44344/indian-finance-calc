@@ -48,4 +48,4 @@ toLakhCrore(15000000); // "1.5 crore"
 
 Prefer a spreadsheet? The same formulas are in free Excel templates: [india-finance-excel-templates](https://github.com/nils44344/india-finance-excel-templates).
 
-For planning, not financial advice. MIT licence © PaisaTools.
+For planning, not financial advice. MIT licence © PaisaTools (paisatools.co.in).
